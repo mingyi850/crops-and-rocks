@@ -1,2 +1,2 @@
 # crops-and-rocks
-onlyCrops 
+Crops and rocks to look at stocks
